@@ -1,5 +1,3 @@
-# Estrutura de Arquivos
-
 📁 sistema-login-cadastro-php
 ├── index.php              -> Tela de login
 ├── cadastro.php           -> Tela de cadastro
